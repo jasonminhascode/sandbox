@@ -1,0 +1,42 @@
+[
+  {
+    "name": "01-yard-swipe-like",
+    "gifPath": "/workspace/vincent-proposal-gifs/01-yard-swipe-like.gif",
+    "frames": 68,
+    "duration": 3.78,
+    "sizeBytes": 19805783,
+    "dimensions": "600,1298"
+  },
+  {
+    "name": "02-super-like-star",
+    "gifPath": "/workspace/vincent-proposal-gifs/02-super-like-star.gif",
+    "frames": 68,
+    "duration": 3.78,
+    "sizeBytes": 3300294,
+    "dimensions": "600,1298"
+  },
+  {
+    "name": "03-auctions-board-enter",
+    "gifPath": "/workspace/vincent-proposal-gifs/03-auctions-board-enter.gif",
+    "frames": 63,
+    "duration": 4.2,
+    "sizeBytes": 4927198,
+    "dimensions": "600,1298"
+  },
+  {
+    "name": "04-lot-gallery-open",
+    "gifPath": "/workspace/vincent-proposal-gifs/04-lot-gallery-open.gif",
+    "frames": 68,
+    "duration": 4.54,
+    "sizeBytes": 10426846,
+    "dimensions": "600,1298"
+  },
+  {
+    "name": "05-yard-swipe-pass",
+    "gifPath": "/workspace/vincent-proposal-gifs/05-yard-swipe-pass.gif",
+    "frames": 68,
+    "duration": 3.78,
+    "sizeBytes": 17825169,
+    "dimensions": "600,1298"
+  }
+]

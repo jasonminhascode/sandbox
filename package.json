@@ -1,0 +1,25 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Blank repo for Cursor cloud agents launched from Grok Bot",
+  "main": "index.js",
+  "scripts": {
+    "capture-gifs": "node scripts/capture-gifs.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonminhascode/sandbox.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonminhascode/sandbox/issues"
+  },
+  "homepage": "https://github.com/jasonminhascode/sandbox#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "playwright": "^1.63.0"
+  }
+}
