@@ -131,3 +131,21 @@ size=694079
 - **Boost pill:** No dedicated Boost pill found on Yard cards in this tip build; rightmost action is 'No with a reason' / note.
 - **In-card photo stories taps:** Side-taps on Yard card photo did not advance `Photo N of M` reliably in automation; gallery flick captured inside lot profile instead.
 - **Public host:** pushing to `jasonminhascode/sandbox` under `vincent-proposal-gifs/`.
+
+## Public URLs (jasonminhascode/sandbox, public)
+
+Raw (embed-friendly):
+- https://raw.githubusercontent.com/jasonminhascode/sandbox/main/vincent-proposal-gifs/yard-swipe-like.gif
+- https://raw.githubusercontent.com/jasonminhascode/sandbox/main/vincent-proposal-gifs/priority-star.gif
+- https://raw.githubusercontent.com/jasonminhascode/sandbox/main/vincent-proposal-gifs/lot-open.gif
+- https://raw.githubusercontent.com/jasonminhascode/sandbox/main/vincent-proposal-gifs/yard-swipe-pass.gif
+- https://raw.githubusercontent.com/jasonminhascode/sandbox/main/vincent-proposal-gifs/gallery-flick.gif
+
+GitHub blob:
+- https://github.com/jasonminhascode/sandbox/blob/main/vincent-proposal-gifs/yard-swipe-like.gif
+- https://github.com/jasonminhascode/sandbox/blob/main/vincent-proposal-gifs/priority-star.gif
+- https://github.com/jasonminhascode/sandbox/blob/main/vincent-proposal-gifs/lot-open.gif
+- https://github.com/jasonminhascode/sandbox/blob/main/vincent-proposal-gifs/yard-swipe-pass.gif
+- https://github.com/jasonminhascode/sandbox/blob/main/vincent-proposal-gifs/gallery-flick.gif
+
+Folder: https://github.com/jasonminhascode/sandbox/tree/main/vincent-proposal-gifs
