@@ -1,6 +1,6 @@
 # PROOF — Vincent proposal GIFs (A-Star Yard Finder tip)
 
-Source tip: https://a-star-skeleton-8rc6i15we-keith-fundgeniesas-projects.vercel.app
+Source tip: https://a-star-skeleton-m87mkhvmr-keith-fundgeniesas-projects.vercel.app
 Capture: Playwright Chromium video (390×844 mobile) → ffmpeg two-pass palette GIF
 Login used: jason (demo also accepted by tip)
 
@@ -79,13 +79,15 @@ size=777099
 ```
 
 ## `yard-swipe-pass.gif`
-- **What it shows:** Slow Yard swipe LEFT (pass) — drag tilt + fly-off revealing next truck card
+- **What it shows:** TRUE Yard LEFT pass — drag tilt left, PASS stamp (passOp=1), card flies LEFT (tx→-520), next card appears. QC fix: was incorrectly a RIGHT like.
+- **Tip:** https://a-star-skeleton-m87mkhvmr-keith-fundgeniesas-projects.vercel.app
 - **Frames:** 42
 - **Duration:** 4.200s
-- **Size:** 2,918,157 bytes (2.78 MiB)
+- **Size:** 1,850,801 bytes (1.77 MiB)
 - **Dimensions:** 390×844
 - **Codec:** gif
 - **Absolute path:** `/workspace/vincent-proposal-gifs/yard-swipe-pass.gif`
+- **QC:** f05 pre-swipe; f20/f35 left-edge darkens (L−R luminance negative) = LEFT pass, not LIKE
 
 ```
 [STREAM]
@@ -98,7 +100,7 @@ nb_read_frames=42
 [FORMAT]
 format_name=gif
 duration=4.200000
-size=2918157
+size=1850801
 [/FORMAT]
 ```
 
