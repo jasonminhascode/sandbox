@@ -1,0 +1,75 @@
+{
+  "_meta": {
+    "source": "gsa_fleet",
+    "endpoint": "POST https://api.shared-public.gsafleet.gov/graphql/shared-public-gateway",
+    "harvestMethod": "vmFetch",
+    "status": "PARTIAL",
+    "fetchedAt": "2026-09-16T00:25:50Z",
+    "note": "LIVE GraphQL but no sweeper vehicleType; M2 chassis only; keyword open search disabled in UI."
+  },
+  "response": {
+    "data": {
+      "getVehicleListingDetails": {
+        "count": 30,
+        "hasMore": true,
+        "rows": [
+          {
+            "vin": "1FVHCYDA96HV96543",
+            "makeName": "FREIGHTLINER",
+            "modelName": "M2 106",
+            "modelYear": 2006,
+            "vehicleType": "Fuel-WaterTrucks",
+            "saleStatus": "Closed",
+            "saleEndDate": "2026-04-07T13:00:00.000Z",
+            "vendorState": "VA",
+            "photoUrl": "http://pics.autoims.com/graphics/crmedia/1404/tn_large/1404_723_44497604_1.jpg"
+          },
+          {
+            "vin": "1FUBC4CY1EHFY4938",
+            "makeName": "FREIGHTLINER",
+            "modelName": "M2 112",
+            "modelYear": 2014,
+            "vehicleType": "Medium-Heavy Tractors",
+            "saleStatus": "Closed",
+            "saleEndDate": "2026-04-08T18:00:00.000Z",
+            "vendorState": "CA",
+            "photoUrl": "http://pics.autoims.com/graphics/crmedia/1337/tn_large/1337_116_44683254_1.jpg"
+          },
+          {
+            "vin": "1FVHC5DV9CHBH1464",
+            "makeName": "FREIGHTLINER",
+            "modelName": "M2 112",
+            "modelYear": 2012,
+            "vehicleType": "Medium-Heavy Dump Trucks",
+            "saleStatus": "Closed",
+            "saleEndDate": "2026-04-21T19:00:00.000Z",
+            "vendorState": "AK",
+            "photoUrl": null
+          },
+          {
+            "vin": "1FVHC5DV4CHBH1467",
+            "makeName": "FREIGHTLINER",
+            "modelName": "M2 112",
+            "modelYear": 2012,
+            "vehicleType": "Medium-Heavy Dump Trucks",
+            "saleStatus": "Closed",
+            "saleEndDate": "2026-04-21T19:00:00.000Z",
+            "vendorState": "AK",
+            "photoUrl": "http://pics.autoims.com/graphics/crmedia/1560/tn_large/1560_372_44744244_1.jpg"
+          },
+          {
+            "vin": "1FVHCYDT9DHBZ9948",
+            "makeName": "FREIGHTLINER",
+            "modelName": "M2 106",
+            "modelYear": 2013,
+            "vehicleType": "Medium-Heavy Stake Trucks",
+            "saleStatus": "Closed",
+            "saleEndDate": "2026-04-22T15:00:00.000Z",
+            "vendorState": "KY",
+            "photoUrl": "http://pics.autoims.com/graphics/crmedia/1391/tn_large/1391_754_44781726_1.jpg"
+          }
+        ]
+      }
+    }
+  }
+}
